@@ -12,3 +12,4 @@ This is a simple PHP project with a custom routing system and modular structure.
 1. Clone the repository:
    ```bash
    git clone https://github.com/kiarent2000/php_boilerplate
+2. Edit .htaccess according to your folder structure
