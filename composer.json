@@ -1,0 +1,16 @@
+{
+    "name": "php/boilerplate",
+    "description": "php_boilerplate",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sergiy Soroka"
+        }
+    ],
+    "require": {}
+}
